@@ -1,0 +1,14 @@
+=== Dataset Exploration Summary ===
+Total Samples: 41188
+
+Target (y) Distribution:
+  no: 36548 (88.73%)
+  yes: 4640 (11.27%)
+
+'unknown' Values per Column:
+  job: 330
+  marital: 80
+  education: 1731
+  default: 8597
+  housing: 990
+  loan: 990

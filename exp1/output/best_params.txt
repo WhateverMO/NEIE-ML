@@ -1,0 +1,4 @@
+=== Best Parameters from GridSearchCV ===
+C: 100
+max_iter: 1000
+penalty: l1

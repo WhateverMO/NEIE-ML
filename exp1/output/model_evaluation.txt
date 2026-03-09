@@ -1,0 +1,7 @@
+=== Model Evaluation Summary ===
+Best Params: {'C': 100, 'max_iter': 1000, 'penalty': 'l1'}
+Accuracy Score: 0.8653
+ROC-AUC Score: 0.9439
+
+Note: AUC requirement is >= 0.94
+Requirement Met: YES
