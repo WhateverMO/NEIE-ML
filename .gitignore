@@ -1,0 +1,14 @@
+# ignore macOS system files
+.DS_Store
+*/.DS_Store
+**/.DS_Store
+# ignore LaTeX auxiliary files
+*.aux
+*.log
+*.toc
+*.out
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
