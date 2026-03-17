@@ -1,0 +1,6 @@
+=== Best Parameters from GridSearchCV ===
+criterion: entropy
+max_depth: 5
+max_features: None
+min_samples_leaf: 5
+min_samples_split: 2

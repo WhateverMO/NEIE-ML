@@ -1,0 +1,6 @@
+=== Dataset Exploration Summary ===
+Total Samples: 7043
+
+Target (y) Distribution:
+  No: 5174 (73.46%)
+  Yes: 1869 (26.54%)

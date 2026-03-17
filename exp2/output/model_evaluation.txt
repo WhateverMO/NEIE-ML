@@ -1,0 +1,7 @@
+=== Model Evaluation Summary ===
+Best Params: {'criterion': 'entropy', 'max_depth': 5, 'max_features': None, 'min_samples_leaf': 5, 'min_samples_split': 2}
+Accuracy Score: 0.7530
+ROC-AUC Score: 0.8380
+
+Note: AUC requirement is >= 0.8
+Requirement Met: YES

@@ -1,0 +1,39 @@
+[2026-03-17 15:51:05] ============================================================
+[2026-03-17 15:51:05] Telecom Customer Churn Prediction - Decision Tree
+[2026-03-17 15:51:05] ============================================================
+[2026-03-17 15:51:05] Starting data preprocessing...
+[2026-03-17 15:51:05] Dropped customerID column
+[2026-03-17 15:51:05] Filled 11 missing TotalCharges with median: 1397.47
+[2026-03-17 15:51:05] Label encoded 'Contract': {'Month-to-month': 0, 'One year': 1, 'Two year': 2}
+[2026-03-17 15:51:05] One-Hot Encoding columns: ['gender', 'Partner', 'Dependents', 'PhoneService', 'MultipleLines', 'InternetService', 'OnlineSecurity', 'OnlineBackup', 'DeviceProtection', 'TechSupport', 'StreamingTV', 'StreamingMovies', 'PaperlessBilling', 'PaymentMethod']
+[2026-03-17 15:51:05] Data shape after encoding: (7043, 30)
+[2026-03-17 15:51:05] Applied StandardScaler to numeric features
+[2026-03-17 15:51:05] Train size: 5634, Test size: 1409
+[2026-03-17 15:51:05] Train target distribution: No=4139, Yes=1495
+[2026-03-17 15:51:05] Test target distribution: No=1035, Yes=374
+[2026-03-17 15:51:05] Initializing Decision Tree with class_weight='balanced'
+[2026-03-17 15:51:05] Parameter grid: {'max_depth': [3, 5, 7, 10, None], 'min_samples_split': [2, 5, 10, 20], 'min_samples_leaf': [1, 2, 5, 10], 'max_features': ['sqrt', 'log2', None], 'criterion': ['gini', 'entropy']}
+[2026-03-17 15:51:05] Starting GridSearchCV with 5-fold cross-validation...
+[2026-03-17 15:51:09] GridSearchCV completed. Best Score (ROC-AUC): 0.8278
+[2026-03-17 15:51:09] Best Parameters: {'criterion': 'entropy', 'max_depth': 5, 'max_features': None, 'min_samples_leaf': 5, 'min_samples_split': 2}
+[2026-03-17 15:51:09] Evaluating model on test set...
+[2026-03-17 15:51:09] Accuracy: 0.7530
+[2026-03-17 15:51:09] ROC-AUC Score: 0.8380
+[2026-03-17 15:51:09] 
+Classification Report:
+              precision    recall  f1-score   support
+
+          No       0.90      0.74      0.82      1035
+         Yes       0.52      0.78      0.63       374
+
+    accuracy                           0.75      1409
+   macro avg       0.71      0.76      0.72      1409
+weighted avg       0.80      0.75      0.77      1409
+
+[2026-03-17 15:51:09] 
+Confusion Matrix:
+[[768 267]
+ [ 81 293]]
+[2026-03-17 15:51:11] ============================================================
+[2026-03-17 15:51:11] Training and evaluation completed successfully!
+[2026-03-17 15:51:11] ============================================================
