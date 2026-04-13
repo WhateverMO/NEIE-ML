@@ -1,0 +1,252 @@
+Evaluating model with Confidence Threshold: 0.5
+
+Image 34:
+  True boxes: 1
+  Predicted boxes (>=0.5): 2
+  Average Max IoU for predictions: 0.4592
+
+Image 84:
+  True boxes: 2
+  Predicted boxes (>=0.5): 3
+  Average Max IoU for predictions: 0.6343
+
+Image 145:
+  True boxes: 2
+  Predicted boxes (>=0.5): 2
+  Average Max IoU for predictions: 0.8605
+
+Image 135:
+  True boxes: 4
+  Predicted boxes (>=0.5): 7
+  Average Max IoU for predictions: 0.5975
+
+Image 131:
+  True boxes: 4
+  Predicted boxes (>=0.5): 5
+  Average Max IoU for predictions: 0.8151
+
+Image 3:
+  True boxes: 2
+  Predicted boxes (>=0.5): 2
+  Average Max IoU for predictions: 0.9185
+
+Image 122:
+  True boxes: 4
+  Predicted boxes (>=0.5): 4
+  Average Max IoU for predictions: 0.8745
+
+Image 77:
+  True boxes: 5
+  Predicted boxes (>=0.5): 5
+  Average Max IoU for predictions: 0.8880
+
+Image 168:
+  True boxes: 2
+  Predicted boxes (>=0.5): 2
+  Average Max IoU for predictions: 0.9282
+
+Image 169:
+  True boxes: 2
+  Predicted boxes (>=0.5): 2
+  Average Max IoU for predictions: 0.8776
+
+Image 64:
+  True boxes: 5
+  Predicted boxes (>=0.5): 6
+  Average Max IoU for predictions: 0.7555
+
+Image 142:
+  True boxes: 2
+  Predicted boxes (>=0.5): 2
+  Average Max IoU for predictions: 0.9153
+
+Image 144:
+  True boxes: 6
+  Predicted boxes (>=0.5): 6
+  Average Max IoU for predictions: 0.8770
+
+Image 88:
+  True boxes: 3
+  Predicted boxes (>=0.5): 3
+  Average Max IoU for predictions: 0.8125
+
+Image 26:
+  True boxes: 1
+  Predicted boxes (>=0.5): 3
+  Average Max IoU for predictions: 0.4437
+
+Image 47:
+  True boxes: 4
+  Predicted boxes (>=0.5): 8
+  Average Max IoU for predictions: 0.4784
+
+Image 22:
+  True boxes: 1
+  Predicted boxes (>=0.5): 1
+  Average Max IoU for predictions: 0.9199
+
+Image 65:
+  True boxes: 1
+  Predicted boxes (>=0.5): 1
+  Average Max IoU for predictions: 0.9241
+
+Image 90:
+  True boxes: 2
+  Predicted boxes (>=0.5): 2
+  Average Max IoU for predictions: 0.9058
+
+Image 48:
+  True boxes: 3
+  Predicted boxes (>=0.5): 4
+  Average Max IoU for predictions: 0.6811
+
+Image 21:
+  True boxes: 2
+  Predicted boxes (>=0.5): 4
+  Average Max IoU for predictions: 0.4398
+
+Image 43:
+  True boxes: 4
+  Predicted boxes (>=0.5): 4
+  Average Max IoU for predictions: 0.8730
+
+Image 29:
+  True boxes: 1
+  Predicted boxes (>=0.5): 1
+  Average Max IoU for predictions: 0.8938
+
+Image 9:
+  True boxes: 1
+  Predicted boxes (>=0.5): 1
+  Average Max IoU for predictions: 0.8817
+
+Image 119:
+  True boxes: 3
+  Predicted boxes (>=0.5): 3
+  Average Max IoU for predictions: 0.8605
+
+Image 92:
+  True boxes: 7
+  Predicted boxes (>=0.5): 9
+  Average Max IoU for predictions: 0.7185
+
+Image 109:
+  True boxes: 2
+  Predicted boxes (>=0.5): 4
+  Average Max IoU for predictions: 0.4746
+
+Image 104:
+  True boxes: 1
+  Predicted boxes (>=0.5): 1
+  Average Max IoU for predictions: 0.7894
+
+Image 31:
+  True boxes: 1
+  Predicted boxes (>=0.5): 1
+  Average Max IoU for predictions: 0.8863
+
+Image 110:
+  True boxes: 1
+  Predicted boxes (>=0.5): 1
+  Average Max IoU for predictions: 0.9278
+
+Image 112:
+  True boxes: 1
+  Predicted boxes (>=0.5): 2
+  Average Max IoU for predictions: 0.4825
+
+Image 96:
+  True boxes: 1
+  Predicted boxes (>=0.5): 2
+  Average Max IoU for predictions: 0.4083
+
+Image 28:
+  True boxes: 1
+  Predicted boxes (>=0.5): 2
+  Average Max IoU for predictions: 0.4485
+
+Image 13:
+  True boxes: 1
+  Predicted boxes (>=0.5): 2
+  Average Max IoU for predictions: 0.6607
+
+Image 75:
+  True boxes: 6
+  Predicted boxes (>=0.5): 8
+  Average Max IoU for predictions: 0.7062
+
+Image 151:
+  True boxes: 1
+  Predicted boxes (>=0.5): 1
+  Average Max IoU for predictions: 0.9162
+
+Image 67:
+  True boxes: 1
+  Predicted boxes (>=0.5): 1
+  Average Max IoU for predictions: 0.8208
+
+Image 79:
+  True boxes: 4
+  Predicted boxes (>=0.5): 6
+  Average Max IoU for predictions: 0.5948
+
+Image 5:
+  True boxes: 2
+  Predicted boxes (>=0.5): 4
+  Average Max IoU for predictions: 0.6716
+
+Image 98:
+  True boxes: 3
+  Predicted boxes (>=0.5): 5
+  Average Max IoU for predictions: 0.5858
+
+Image 37:
+  True boxes: 1
+  Predicted boxes (>=0.5): 1
+  Average Max IoU for predictions: 0.9296
+
+Image 6:
+  True boxes: 3
+  Predicted boxes (>=0.5): 6
+  Average Max IoU for predictions: 0.5594
+
+Image 54:
+  True boxes: 1
+  Predicted boxes (>=0.5): 1
+  Average Max IoU for predictions: 0.9498
+
+Image 129:
+  True boxes: 3
+  Predicted boxes (>=0.5): 5
+  Average Max IoU for predictions: 0.4935
+
+Image 162:
+  True boxes: 2
+  Predicted boxes (>=0.5): 2
+  Average Max IoU for predictions: 0.9474
+
+Image 94:
+  True boxes: 3
+  Predicted boxes (>=0.5): 3
+  Average Max IoU for predictions: 0.8521
+
+Image 114:
+  True boxes: 1
+  Predicted boxes (>=0.5): 1
+  Average Max IoU for predictions: 0.8986
+
+Image 147:
+  True boxes: 3
+  Predicted boxes (>=0.5): 3
+  Average Max IoU for predictions: 0.8367
+
+Image 12:
+  True boxes: 1
+  Predicted boxes (>=0.5): 1
+  Average Max IoU for predictions: 0.9269
+
+Image 97:
+  True boxes: 1
+  Predicted boxes (>=0.5): 1
+  Average Max IoU for predictions: 0.8904
+

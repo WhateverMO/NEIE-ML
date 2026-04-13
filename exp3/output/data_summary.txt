@@ -1,0 +1,3 @@
+Penn-Fudan Pedestrian Dataset
+Total images: 170
+Classes: 2 (Background, Pedestrian)

@@ -1,0 +1,4 @@
+Learning Rate: 0.005
+Batch Size: 2
+Epochs: 1
+Optimizer: SGD (momentum=0.9, weight_decay=0.0005)

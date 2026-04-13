@@ -1,0 +1,34 @@
+Training Log
+==========
+Using device: cpu
+
+Epoch: [0]  [0/60]  loss: 1.2994
+  loss_objectness: 0.0571
+  loss_rpn_box_reg: 0.0161
+  loss_classifier: 0.7414
+  loss_box_reg: 0.4849
+Epoch: [0]  [10/60]  loss: 0.3528
+  loss_objectness: 0.0005
+  loss_rpn_box_reg: 0.0073
+  loss_classifier: 0.0856
+  loss_box_reg: 0.2594
+Epoch: [0]  [20/60]  loss: 0.3202
+  loss_objectness: 0.0124
+  loss_rpn_box_reg: 0.0139
+  loss_classifier: 0.0644
+  loss_box_reg: 0.2296
+Epoch: [0]  [30/60]  loss: 0.0653
+  loss_objectness: 0.0005
+  loss_rpn_box_reg: 0.0024
+  loss_classifier: 0.0154
+  loss_box_reg: 0.0469
+Epoch: [0]  [40/60]  loss: 0.3085
+  loss_objectness: 0.0100
+  loss_rpn_box_reg: 0.0129
+  loss_classifier: 0.0770
+  loss_box_reg: 0.2086
+Epoch: [0]  [50/60]  loss: 0.1775
+  loss_objectness: 0.0004
+  loss_rpn_box_reg: 0.0064
+  loss_classifier: 0.0586
+  loss_box_reg: 0.1120
